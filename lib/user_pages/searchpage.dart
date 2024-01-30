@@ -27,12 +27,11 @@ class UserDoctorSearchPage extends StatelessWidget {
                   Text(
                     "Searched Results for '$value'",
                     style: TextStyle(
-                      color: Colors.white,
-                      fontWeight: FontWeight.w600,
-                      fontSize: 18,
-                      fontFamily: 'Dosis',
-                      overflow: TextOverflow.fade
-                    ),
+                        color: Colors.white,
+                        fontWeight: FontWeight.w600,
+                        fontSize: 18,
+                        fontFamily: 'Dosis',
+                        overflow: TextOverflow.fade),
                   ),
                 ],
               ),

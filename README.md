@@ -7,6 +7,8 @@ through this app doctor can show his/her presence by scheduling clinic time whic
 keep record online and also can send patient reports through it . 
 Other side, Patient can book appointment to doctor prior to doctor closing time 
 and can get his reports in report section , and patient can see his all the appointment in appointment section.
+Swasthya Setu will help all small clinic , doctors who are not so famous to get patients and it will also help patients to search and look for doctors to get offline consultation . Hence when patients books an appointment to a doctor , patient would have to pay around 10% of doctor appointment fees which would be set by doctor itself , this would help middle class people but also every economic class people to book appointment to a doctor like they are shopping at amazon or flipkart at genuine consultation fees rather than paying thousands to apollo , pharmacy for online consultations .
+
 
 
 ## Preview Of Swasthya Setu :)
@@ -39,12 +41,6 @@ https://github.com/D-extremity/SwasthyaSetu/assets/83233310/96ec36da-0cb8-4931-8
 - Patient can easily find nearby required doctor
 - Patient can have its appointment and report history at one place.
 
-
-## Future Scope
-1. Appointment Booking Payment Gateway
-2. Display Nearest Doctors At Top
-3. Doctor Rating
-4. Online Doctor Consultaion
 
 
 ## Tech
